@@ -5,7 +5,13 @@ For general purpose:
     claude  :   calude.ai
 
 For Website development:
-    Loveable    : For website 
+    Lovable    : https://lovable.dev
+
+For Voice cloning and conversational AI:
+    ElevanLabs  : https://elevenlabs.io
+    Resemble AI : https://www.resemble.ai
+    coqui XTTS  : https://huggingface.co/coqui/XTTS-v2 (Local models for privacy)
+
 
 OpenSource free code development:
     continue.dev    : extension plugin for VScode, Jetbrains

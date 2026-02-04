@@ -1,0 +1,37 @@
+1. Starting and Syncing
+Before you write a single line of code, you need to make sure your local environment matches the "source of truth" (usually on GitHub or GitLab).
+
+git clone [URL]: Downloads a project from a remote server to your computer.
+
+git pull: Fetches the latest changes from the remote server and merges them into your current branch. Do this often to avoid messy conflicts later.
+
+2. The Inner Loop (The "Save" Process)
+This is the bread and butter of your workday. It’s a three-step process: Stage → Commit → Push.
+
+git status: Your best friend. It tells you which files you've changed and what is currently "staged" for a commit.
+
+git add [file-name]: Moves changes from your working directory to the Staging Area. Use git add . to stage everything at once.
+
+git commit -m "Your message": Takes a snapshot of your staged changes. Keep your messages descriptive (e.g., "Fix login button alignment").
+
+git push: Sends your local commits to the remote server so your teammates can see them.
+
+3. Branching and Switching
+In a professional setting, you almost never work directly on the "main" or "master" branch. You create "feature branches."
+
+git branch: Lists all branches in your repository.
+
+git checkout -b [branch-name]: Creates a new branch and switches you to it immediately.
+
+git checkout [branch-name]: Switches back to an existing branch.
+
+4. Undoing Mistakes
+We all have those "oops" moments. Git is very forgiving if you know the right commands.
+
+Command	What it does
+git restore [file]	Discards local changes in a file and reverts it to the last committed state.
+git commit --amend	Adds forgotten changes to your last commit (great for fixing typos).
+git log	Shows a history of all commits so you can find a point to return to.
+
+
+git add -A && git commit -m "Sync all changes" && git push
