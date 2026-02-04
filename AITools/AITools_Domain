@@ -1,0 +1,22 @@
+For general purpose:
+    chatgpt :   www.chatgpt.com
+    copilot : copilot.microsoft.com
+    gemini  :   gemini.google.com
+    claude  :   calude.ai
+
+For Website development:
+    Loveable    : For website 
+
+OpenSource free code development:
+    continue.dev    : extension plugin for VScode, Jetbrains
+    aider           : pair programming with LLMs
+    cline           : Formerly Claude
+
+Individual pro tier:
+Tool	            Monthly Price	Best For	Key Feature
+Cody (Sourcegraph)	$9	            Massive codebases	Deep understanding of your entire repo.
+GitHub Copilot	    $10	            The "Standard"	Reliable autocomplete and huge ecosystem.
+Windsurf	        $15	            Agent-focused	Combines autopilot with a native agent mode.
+Tabnine	            $12 – $15	    Privacy/Enterprise	Can run locally on your machine (no cloud).
+Cursor	            $20	            Power Users	Rebuilt VS Code with superior "Composer" mode.
+Replit Core	        $25	            Rapid Prototyping	Cloud-based IDE that handles hosting and deployment.
