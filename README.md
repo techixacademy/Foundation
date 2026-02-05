@@ -13,8 +13,8 @@ Foundation Data:
 TechPillar Information/Prereqs:
 
 1. P1: HW/IoT/EV -> Basic Electronics (Circuit laws), C/C++ basics, Embedded logic.
-2. P2: Cloud Native	    Linux CLI, Basic Networking, Virtualization concepts.
-3. P3: AI Full Stack	    Proficiency in Python, HTML/CSS, Web APIs (REST).
-4. P4: AI Models/Ops	    Python (Advanced), Docker basics, Data handling.
-5. P5: Cyber Security	    OS Fundamentals (Windows/Linux), Networking protocols.
-6. P6: Marketing/Digital	Basic Excel/Google Sheets, Writing/Communication,Statistics, Data Visualization, Canva, Adobe
+2. P2: Cloud Native	 -> Linux CLI, Basic Networking, Virtualization concepts.
+3. P3: AI Full Stack ->	Proficiency in Python, HTML/CSS, Web APIs (REST).
+4. P4: AI Models/Ops ->	Python (Advanced), Docker basics, Data handling.
+5. P5: Cyber Security	 -> OS Fundamentals (Windows/Linux), Networking protocols.
+6. P6: Marketing/Digital Marketing ->	Basic Excel/Google Sheets, Writing/Communication,Statistics, Data Visualization, Canva, Adobe
