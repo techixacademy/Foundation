@@ -8,6 +8,7 @@ Foundation Data:
 5. Docker, Container, Kubernetes
 6. Waterfall, Agile, ScaledAgile
 7. SDLC
+8. On Prem/In Prem, Cloud Platforms: AWS, Azure, GCP, Railway
 
 
 
