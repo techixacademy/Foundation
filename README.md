@@ -11,7 +11,8 @@ Foundation Data:
 8. On Prem/In Prem, Cloud Platforms: AWS, Azure, GCP, Railway
 
 
-Pillar	                Technical Prerequisites	                
+Pillar	                Technical Prerequisites
+
 P1: HW/IoT/EV	        Basic Electronics (Circuit laws), C/C++ basics, Embedded logic.	
 P2: Cloud Native	    Linux CLI, Basic Networking, Virtualization concepts.	
 P3: AI Full Stack	    Proficiency in Python, HTML/CSS, Web APIs (REST).	
